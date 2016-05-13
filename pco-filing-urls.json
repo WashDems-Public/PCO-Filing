@@ -9,6 +9,11 @@
       "countyId": "",
       "countyName": "Pierce",
       "pcoFilingUrl": "http://www.co.pierce.wa.us/index.aspx?NID=3668"
+    },
+    {
+      "countyId": "SP",
+      "countyName": "Spokane",
+      "pcoFilingUrl": "http://www.spokanecounty.org/315/Online-Candidate-Filing"
     }
   ]
 }
