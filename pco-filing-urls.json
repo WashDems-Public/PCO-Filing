@@ -1,0 +1,14 @@
+{
+  "counties": [
+    {
+      "countyId": "KI", 
+      "countyName": "King",
+      "pcoFilingUrl": "http://kingcounty.gov/depts/elections/for-candidates/online-pco-filing.aspx"
+    }, 
+    {
+      "countyId": "",
+      "countyName": "Pierce",
+      "pcoFilingUrl": "http://www.co.pierce.wa.us/index.aspx?NID=3668"
+    }
+  ]
+}
