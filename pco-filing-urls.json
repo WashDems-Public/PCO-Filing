@@ -1,6 +1,11 @@
 {
   "counties": [
     {
+      "countyId": "AD", 
+      "countyName": "Adams",
+      "pcoFilingUrl": "https://weiapplets.sos.wa.gov/onlinecandidatefiling?countycode=ad"
+    }, 
+    {
       "countyId": "KI", 
       "countyName": "King",
       "pcoFilingUrl": "http://kingcounty.gov/depts/elections/for-candidates/online-pco-filing.aspx"
